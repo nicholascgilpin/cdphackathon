@@ -61,7 +61,8 @@ Common tools in order of use during a project.
 ### General
 A crash course on the basics of data science. The first 3 guides can be read online. Use the last one to test your environment.
 
-- [ Install Git](https://git-scm.com/downloads)
+- [Remote Terminal](https://mobaxterm.mobatek.net/features.html) - You can use a terminal to log onto a server over the network
+- [Install Git](https://git-scm.com/downloads) - Used to share code
 - [10m - Install Anaconda](https://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/12-installation.ipynb) - How to install the tools
 - [5m - Jupyter Intro](https://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/13-nbui.ipynb) - How to start the tools
 - [15m Data Science Process Intro](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Top_Python_Libraries_Used_In_Data%C2%A0Science.ipynb) - The usual process
