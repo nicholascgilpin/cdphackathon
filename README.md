@@ -59,12 +59,29 @@ Common tools in order of use during a project.
 ## Learning
 
 ### General
-A crash course on the basics of data science.
-- [10m - Anaconda Intro](https://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/12-installation.ipynb) - How to install the tools
+A crash course on the basics of data science. The first 3 guides can be read online. Use the last one to test your environment.
+
+- [ Install Git](https://git-scm.com/downloads)
+- [10m - Install Anaconda](https://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/12-installation.ipynb) - How to install the tools
 - [5m - Jupyter Intro](https://nbviewer.jupyter.org/github/ipython-books/minibook-2nd-code/blob/master/chapter1/13-nbui.ipynb) - How to start the tools
 - [15m Data Science Process Intro](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Top_Python_Libraries_Used_In_Data%C2%A0Science.ipynb) - The usual process
+
+Run Exploratory_data_Analysis notebook from the Anaconda Shell to test your set up:
+```bat
+git clone https://github.com/nicholascgilpin/cdphackathon.git
+cd ./cdphackathon/examples
+jupyter notebook
+```
 - [25m Basic Data Analysis](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb) - How to open a file, clean it up, and get a feel for the data
 - [Cheat sheets](https://towardsdatascience.com/collecting-data-science-cheat-sheets-d2cdff092855)
+
+#### Troubleshooting
+We'll add more troubleshooting steps as we encounter trouble :\)
+```bat
+conda update -n base -c defaults conda
+conda update --all
+```
+
 ### Specifics
 Specific tool tutorials for if you have time/need.
 - [Numpy Intro](https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html)
