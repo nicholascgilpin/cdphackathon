@@ -110,6 +110,12 @@ Specific tool tutorials for if you have time/need.
 - [Tensorflow Intro](https://nbviewer.jupyter.org/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb)
 
 ## Hardware
-We have two servers on our lab private network.
+We have shared servers on our **lab private network**.
+
+### How to login
+Recommended: Use a [Localhost SSH Tunnel](https://www.ssh.com/ssh/tunneling/)  to connect [(Tutorial)](https://www.howtogeek.com/168145/how-to-use-ssh-tunneling/).
 - [dcs-lab-04] - Get public ssh key authorized by admin
-- [root@fc32] - Login via the standard credentials (Email Nick if unsure)
+- [root@192.168.84.198] - Login via the standard credentials (Email Nick if unsure)
+
+### Resources
+- 192.168.84.198:8000 - JupyterHub Website
