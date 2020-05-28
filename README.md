@@ -108,3 +108,8 @@ Specific tool tutorials for if you have time/need.
 - [Seaborn Intro](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html)
 - [NLTK Intro](https://nbviewer.jupyter.org/github/hb20007/hands-on-nltk-tutorial/blob/master/1-2-Text-Analysis-Using-nltk.text.ipynb)
 - [Tensorflow Intro](https://nbviewer.jupyter.org/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb)
+
+## Hardware
+We have two servers on our lab private network.
+- [dcs-lab-04] - Get public ssh key authorized by admin
+- [root@fc32] - Login via the standard credentials (Email Nick if unsure)
